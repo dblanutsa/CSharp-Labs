@@ -1,0 +1,10 @@
+C:\Users\Дмитрий\RiderProjects\CSharp Lab1\CSharp Lab1\bin\Debug\CSharp_Lab1.exe
+C:\Users\Дмитрий\RiderProjects\CSharp Lab1\CSharp Lab1\bin\Debug\CSharp_Lab1.pdb
+C:\Users\Дмитрий\RiderProjects\CSharp Lab1\CSharp Lab1\obj\Debug\CSharp Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\RiderProjects\CSharp Lab1\CSharp Lab1\obj\Debug\CSharp_Lab1.exe
+C:\Users\Дмитрий\RiderProjects\CSharp Lab1\CSharp Lab1\obj\Debug\CSharp_Lab1.pdb
+C:\Users\Дмитрий\RiderProjects\СSharp Labs\CSharp Lab1\CSharp Lab1\bin\Debug\CSharp_Lab1.exe
+C:\Users\Дмитрий\RiderProjects\СSharp Labs\CSharp Lab1\CSharp Lab1\bin\Debug\CSharp_Lab1.pdb
+C:\Users\Дмитрий\RiderProjects\СSharp Labs\CSharp Lab1\CSharp Lab1\obj\Debug\CSharp Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\RiderProjects\СSharp Labs\CSharp Lab1\CSharp Lab1\obj\Debug\CSharp_Lab1.exe
+C:\Users\Дмитрий\RiderProjects\СSharp Labs\CSharp Lab1\CSharp Lab1\obj\Debug\CSharp_Lab1.pdb
